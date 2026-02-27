@@ -1,4 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pcBTorPA)
+
+# Santiago Guerrero Parrado 0000358425
+# Link: 
+https://dsaw-2026-1.github.io/parcial-pr-ctico-corte-i-guerreroparradosantiago-netizen/
+
 # Parcial Desarrollo Web: Ingeniería de Prompts y Maquetación
 
 ## Contexto
